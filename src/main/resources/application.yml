@@ -1,0 +1,6 @@
+info:
+  name : "入门案例"
+
+server:
+  #端口号
+  port: 12345
