@@ -25,7 +25,7 @@ public class SwaggerConfig {
 		return new Docket(DocumentationType.SWAGGER_2).apiInfo(apiInfo());
 	}
 	private ApiInfo apiInfo() {
-		Contact contact = new Contact ("bxh",
+		Contact contact = new Contact ("xiaolizi",
 				"https://github.com",
 				"123@qq.com");
 		return new ApiInfoBuilder()
